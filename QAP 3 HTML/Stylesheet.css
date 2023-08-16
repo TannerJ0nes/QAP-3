@@ -1,0 +1,163 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+#mainbox {
+    width: 900px;
+   /* height: 700px; */
+    background-color: white;
+    border: 3px solid white;
+    margin: 20px;
+    text-align: left;
+}
+
+header {
+    width: 900px;
+    height: 30;
+    background-color: blue;
+}
+
+.Header {
+    background-color: gray;
+    height: 30px
+    
+}
+
+.ReadandWatchBox {
+    width: 111px;
+    height: 130px;
+    background-color: red;
+    border: 1px solid white;
+    float: left;
+
+}
+
+.ReadandWatchBoxWhite {
+    width: 111px;
+    height: 130px;
+    background-color: white;
+    border: 1px solid white;
+    float: left;
+
+}
+
+.ReadandWatchBoxBlue {
+    width: 111px;
+    height: 130px;
+    background-color: DarkBlue;
+    border: 1px solid white;
+    float: left;
+    
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 20pt;
+
+}
+
+.totheleft {
+    text-align: left;
+    padding-top: 13px;
+}
+
+nav a:link {
+    color: white;
+    text-decoration: none;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+
+nav a:visited {
+    color: white;
+    text-decoration: none;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+
+.font {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#sectionBox {
+    width: 900px;
+    height: 30px;
+    background-color: gray;
+}
+
+
+.ReadandWatchBoxcontent {
+    width: 223px;
+    height: 200px;
+    border-bottom: 1px solid black;
+    float: left;
+    
+}
+
+.AddPad {
+    padding: 15px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+#contentblock {
+    padding-top: 10px;
+    padding-left: 5px;
+    width: 900px;
+    height: 446px;
+    background: rgb(209, 209, 209);
+}
+
+#ReadBoxPhoto {
+    width: 223px;
+    height: 200px;
+    border-bottom: 1px solid black;
+    float: left;
+}
+
+#ReadBoxPhotoBottom {
+    width: 223px;
+    height: 200px;
+    border-bottom: 1px solid black;
+    float: left;
+    padding-top: 10px;
+}
+
+footer {
+    width: 900px;
+    height: 30px;
+    background-color: gray;
+}
+
+#footerbox {
+    width: 900px;
+    height: 50px;
+    background-color: gray;
+}
+
+.totheleftfooter {
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 3px;
+    font-weight: bolder;
+}
+
+#photoright {
+    text-align: right;
+}
+
+button {
+    height: 35px;
+    width: 150px;
+    background: rgb(159, 159, 159);
+    border: 0px solid black;
+    font-size: 16px;
+    color: white;
+    border-radius: 3px;
+}
